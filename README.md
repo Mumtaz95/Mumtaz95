@@ -1,4 +1,4 @@
-👋 Hi, I’m @Mumtaz95
+👋 Hi, I’m Mumtaz Siddiqui
 
 👨‍💻 Sr. Software Engineer & Creative developer passionate about creating interactive experiences, intuitive UIs, and clean, maintainable code
 
