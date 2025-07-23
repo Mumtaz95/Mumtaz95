@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Mumtaz95
-- 👀 I am a front-end developer specializing in creating interactive experiences, and user-friendly interfaces, maintaining best coding practices...
-- 🌱 I’m currently learning WebGL and also a student of design...
-- 💞️ I’m looking to collaborate on front-end development projects and creative designs...
-- 📫 You can reach me on email at mumtaz.sid995@gmail.com || linkedin.com/in/mumtazahmedsiddiqui/...
+👋 Hi, I’m @Mumtaz95
+
+👨‍💻 Sr. Software Engineer & Creative developer passionate about creating interactive experiences, intuitive UIs, and clean, maintainable code
+
+🎨 Exploring WebGL and sharpening my design skills to bridge the gap between code and creativity
+
+🤝 Open to collaborating on front-end projects, animations, and creative web experiences
+
+📫 Reach me at mumtaz.sid995@gmail.com or LinkedIn
 
 <!---
 Mumtaz95/Mumtaz95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
