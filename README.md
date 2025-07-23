@@ -6,7 +6,7 @@
 
 🤝 Open to collaborating on front-end projects, animations, and creative web experiences
 
-📫 Reach me at mumtaz.sid995@gmail.com or LinkedIn
+📫 Reach me at mumtaz.sid995@gmail.com or [Visit my LinkedIn](https://linkedin.com/in/mumtazahmedsiddiqui/)
 
 <!---
 Mumtaz95/Mumtaz95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
